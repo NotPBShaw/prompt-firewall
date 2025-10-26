@@ -1,10 +1,12 @@
-# secure-prompt-firewall
+# Prompt Firewall
 
-![CI](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml/badge.svg)
+Rule-based prompt gate for policy enforcement.
+
+![CI](https://github.com/TryKosm/prompt-firewall/actions/workflows/ci.yml/badge.svg)
 
 Prompt firewall with rule-based gate decisions for policy enforcement.
 
-[![CI](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml)
+[![CI](https://github.com/TryKosm/prompt-firewall/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/prompt-firewall/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
